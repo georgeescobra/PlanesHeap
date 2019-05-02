@@ -1,0 +1,11 @@
+#please do not change names of variables
+#priority has to be >= 1
+priority = 1
+#size has to be >= 4
+landingStripSize = 4
+#decrement can be any number
+decrement = 1
+#increment has to be >= 3
+increment = 3
+#Max Time Left of Plane and can be any number > 0
+timeLeft = 5
